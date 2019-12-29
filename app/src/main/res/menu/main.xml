@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/m1"
+        android:title="关于作者"
+        ></item>
+    <item
+        android:id="@+id/m2"
+        android:title="退出"
+        ></item>
+    <item
+        android:id="@+id/m3"
+        android:title="增加题目"
+        ></item>
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">一起学习吧</string>
+    <string name="title_activity_author">关于作者</string>
+    <string name="title_activity_add">添加题目</string>
+</resources>
